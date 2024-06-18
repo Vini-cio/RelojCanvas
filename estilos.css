@@ -1,0 +1,29 @@
+.wrap {
+	width: 300%;
+	max-width: 1000px;
+
+}
+
+.widget {
+	width: 40%;
+	margin: 2em;
+}
+
+.widget p {
+	display: inline-block;
+
+}
+
+.fecha {
+	font-family: Courier;
+	text-align: center;
+	font-size: 1em;
+	margin-bottom: 0.1rem;
+	background: rgba(0, 0, 0, .3);
+	padding: 10px;
+
+}
+
+#dibuja {
+	border: 1px solid #baaba8;
+}
